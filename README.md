@@ -44,7 +44,7 @@ The three SDKs share one design and are MIT licensed on [JSR](https://jsr.io/@ba
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.png">
-  <img alt="03 Stack: TypeScript, Node.js, NestJS, React, React Native, Angular, Next.js, AWS, Terraform, Kubernetes, PostgreSQL, DynamoDB, GitHub Actions, Claude Code" src="assets/section-stack-light.png" width="100%">
+  <img alt="03 Stack: TypeScript, Node.js, React, Angular, AWS, Terraform, PostgreSQL and DynamoDB first, then every other skill, smaller" src="assets/section-stack-light.png" width="100%">
 </picture>
 
 <picture>
