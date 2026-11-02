@@ -17,15 +17,14 @@ it. I work through my consultancy, [Bates Solutions](https://github.com/Bates-So
   <img alt="01 Now" src="assets/section-now-light.png" width="100%">
 </picture>
 
-- **Ocean Wise.** Lead Backend Engineer on [Whale Report](https://bates-solutions.com/work/ocean-wise),
-  real-time whale alerts for mariners and a versioned public partner API. I also set the
-  team's standard for AI coding agents: a shared agent repository, Claude Code skills and
-  Cursor rules, shipped to every repository as configuration.
 - **Well-Plated.** Senior engineer on three clinical React Native apps, and the release
   pipeline that gets them through both stores.
 - **getMickled.** My multi-tenant commerce platform on serverless AWS: a storefront per
   business, tenant isolation across 19 Terraform modules.
-- **Before:** founding engineer at Casechek, a HIPAA-regulated platform I took from the first
+- **Before:** Lead Backend Engineer at Ocean Wise to October 2026, on
+  [Whale Report](https://bates-solutions.com/work/ocean-wise): real-time whale alerts for
+  mariners, a versioned public partner API, and the team's standard for AI coding agents.
+  Before that, founding engineer at Casechek, a HIPAA-regulated platform I took from the first
   commit to 200+ US hospitals.
 
 <picture>
